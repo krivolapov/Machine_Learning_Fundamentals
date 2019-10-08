@@ -1,0 +1,28 @@
+cross-validation
+
+shape context   - 
+
+reek havoc      -
+
+random classifier - it try to guess a label
+
+over-fitting    -
+
+under-fitting   -
+
+LOOCV           -
+
+k-Fold Cross Validation
+
+Tangent distance -  The distance from the point of curvature to the point of
+                    intersection (vertex), or from the point of intersection to the point of tangency.
+                    
+Hamming distance -  It measures the minimum number of substitutions required to change
+                    one string into the other, or the minimum number of errors that could have transformed one string into the other.
+                    
+https://en.wikipedia.org/wiki/Lp_space
+
+https://en.wikipedia.org/wiki/Shape_context
+
+https://en.wikipedia.org/wiki/List_of_datasets_for_machine-learning_research
+
