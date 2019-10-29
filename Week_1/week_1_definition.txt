@@ -1,16 +1,16 @@
-cross-validation
-
 shape context   - 
 
 reek havoc      -
 
-random classifier - it try to guess a label
+random classifier - it try to guess a label by chance 
 
 over-fitting    -
 
 under-fitting   -
 
 LOOCV           -
+
+cross-validation - 
 
 k-Fold Cross Validation
 
