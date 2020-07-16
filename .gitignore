@@ -5,3 +5,7 @@ Week_4/diabetes-regression/.ipynb*
 Week_4/sentiment-logistic-regression/.ipynb*
 Week_3/generative-mnist/.ipynb*
 *.log
+*.tar
+*.gz
+.DS_Store
+*.ipynb_checkpoints*
